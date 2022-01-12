@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rzolm
-- 👀 I’m interested in Web Development and Golang.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Golang.
 - 📫 How to reach me rzolm@protonmail.com
 
