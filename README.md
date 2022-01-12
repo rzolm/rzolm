@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rzolm
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Golang.
-- 📫 How to reach me rzolm@protonmail.com
 
 <!---
 rzolm/rzolm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
