@@ -1,1 +1,1 @@
-Golang | SQL | Javascript | PHP | Python
+Golang | SQL | Javascript | Python
